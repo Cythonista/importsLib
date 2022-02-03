@@ -1,5 +1,7 @@
 # importsLib
 
+Python モジュール実験用リポジトリ
+
 ```
 importsLib
 |
