@@ -1,4 +1,4 @@
-class Console():
+class Console(object):
     def printLine(self, num = 1):
         if(num == 0):
             num = 1
